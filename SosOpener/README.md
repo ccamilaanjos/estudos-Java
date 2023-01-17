@@ -4,4 +4,4 @@ Este é um robô que acessa o site do curso de Análise e Desenvolvimento de Sis
 
 https://youtu.be/8RxGF1P02LM
 
-Autor: Gaspar Coding | @Gaspared
+Autor - Gaspar Coding | @Gaspared
