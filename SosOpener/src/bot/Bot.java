@@ -65,17 +65,16 @@ public class Bot {
 		robot.keyPress(KeyEvent.VK_WINDOWS);
 		robot.keyRelease(KeyEvent.VK_WINDOWS);
 		
+		robot.delay(200);
 		clip(text[0]); // chrome
-		
 		copypaste();
-		
-		robot.delay(300);
+		robot.delay(200);
 		enter();
-		robot.delay(300);
+		robot.delay(1000);
 		
 		clip(text[1]); // url
 		copypaste();
-		robot.delay(200);
+		robot.delay(400);
 		
 		switch (semester) {
 		case 0:
@@ -102,6 +101,7 @@ public class Bot {
 		}
 		
 		copypaste();
+		robot.delay(100);
 		enter();
 	}
 }
