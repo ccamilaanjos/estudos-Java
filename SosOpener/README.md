@@ -12,4 +12,4 @@ Código-fonte em SosOpener ⇨ src ⇨ bot
 
 https://youtu.be/8RxGF1P02LM
 
-Autor - Gaspar Coding | @Gaspared
+Autor: Gaspar Coding | @Gaspared
