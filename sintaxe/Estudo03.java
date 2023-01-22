@@ -1,5 +1,5 @@
 // Fibonacci recursivo
-public class estudo03 {
+public class Estudo03 {
 	public static void main(String[] args) {
 		int num = 6; // Número do elemento na sequência
 		

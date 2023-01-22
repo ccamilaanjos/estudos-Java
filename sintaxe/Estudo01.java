@@ -1,4 +1,4 @@
-public class estudo01{
+public class Estudo01{
     public static void main(String[]args){
         // data types:
         // int, byte, short, long, float, double, boolean, char
