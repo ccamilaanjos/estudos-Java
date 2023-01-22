@@ -1,4 +1,4 @@
-public class estudo02 {
+public class Estudo02 {
     public static void main(String[] args){
         // Operadores
         String concatenacao = "?";
