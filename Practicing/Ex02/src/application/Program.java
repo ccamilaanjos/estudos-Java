@@ -28,5 +28,7 @@ public class Program {
 		employee.increaseSalary(sc.nextDouble());
 		
 		System.out.println("\nUpdated data: "  + employee.name + ", $ " + String.format("%.2f", employee.netSalary()));
+		
+		sc.close();
 	}
 }
