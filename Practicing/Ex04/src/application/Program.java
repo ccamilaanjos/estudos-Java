@@ -17,9 +17,10 @@ public class Program {
 		System.out.print("How many dollars will be bought? ");
 		double quantity = sc.nextDouble();
 		
-		System.out.printf("Amount to be paid in reais =  %.2f", CurrencyConverter.amount(price, quantity0));
+		System.out.printf("Amount to be paid in reais =  %.2f", CurrencyConverter.amount(price, quantity));
 		
 		sc.close();
+		
 	}
 
 }
